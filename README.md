@@ -1,0 +1,2 @@
+# goSquash
+my Go playground
